@@ -1,0 +1,10 @@
+div{
+    margin: 15px 15px 15px;
+    border-radius: 10px;
+    background-color:gray;
+    justify-content: center;
+    text-align:center;
+}
+.image{
+    margin-right: 15px;
+}
